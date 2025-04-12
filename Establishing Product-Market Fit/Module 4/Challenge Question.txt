@@ -1,0 +1,5 @@
+ 
+From this module, I believe the biggest challenge in determining your target customer is truly understanding their needs, behaviors, and pain points beyond surface-level assumptions.
+It's easy to define a broad demographic—like "millennials who use smartphones"—but the real challenge lies in digging deeper to identify specific motivations, habits, and problems they face. People are complex, and assumptions based on age, location, or job title can often lead to misalignment between what the product offers and what the customer actually needs.
+Another big challenge is validating those assumptions with real data. It requires user research, interviews, surveys, and feedback loops, which can be time-consuming and sometimes reveal unexpected results that force you to rethink your approach.
+Ultimately, building a clear and accurate picture of the target customer is essential for product-market fit—but getting there requires patience, active listening, and constant iteration.
